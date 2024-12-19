@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HiteshShonak
 - 👀 I’m interested in developing games
 - 🌱 I’m currently learning c++;
-- 📫 How to reach me - DM me on insta @ayeehitesh
+- 📫 How to reach me - DM me on insta @ayeehitesh or mail me at hiteshshonak1@gmail.com
 - 😄 I am a 2nd Sem Student
 - 🎓 University- IIIT Sonepat
 
